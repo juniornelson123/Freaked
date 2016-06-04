@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1262278fddc1df53b67ed6e7747ef5e8e6341522">
+        <dex dex="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_894eea275c1fe3a087f7d15b28d42137713a7463.jar" />
+    </item>
+
+</items>
