@@ -2,11 +2,74 @@
 <items version="2" >
 
     <item
+        jar="/home/junio/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/pre-dexed/debug/guava-18.0_83f79e156f100cc4cf11b14f9e3bf5f10ed954ed.jar" />
+    </item>
+    <item
+        jar="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_1be1998979ed803e2a0ad61ce9c89f402c48e5ea.jar" />
+    </item>
+    <item
+        jar="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_5e1c8f00046ea4de35f90863f0666e8c0a2dc13c.jar" />
+    </item>
+    <item
+        jar="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_75b1daa821b80973adf19ec10c5415648a3f3274.jar" />
+    </item>
+    <item
+        jar="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_ce721b3f53e6dbd51dee8db3b59d627992bc1c3d.jar" />
+    </item>
+    <item
+        jar="/home/junio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_b4af503c19857753ac353b522e80f2473164d946.jar" />
+    </item>
+    <item
+        jar="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_dc197c69e847f4dc8abe8ada0e2fb1f81da79782.jar" />
+    </item>
+    <item
+        jar="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.4/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/pre-dexed/debug/com.github.satyan-sugar-1.4_a50b8f9688f1f505e3f1be10d1160382d80778a7.jar" />
+    </item>
+    <item
         jar="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="1262278fddc1df53b67ed6e7747ef5e8e6341522">
+        sha1="2e2b918f0fc253d9ea514e92fe57c3e0a721286a">
         <dex dex="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_894eea275c1fe3a087f7d15b28d42137713a7463.jar" />
+    </item>
+    <item
+        jar="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="74740e502c9382cce34105009360781d53303abc">
+        <dex dex="/home/junio/AndroidStudioProjects/Freaked/app/build/intermediates/pre-dexed/debug/instant-run_311a0363de5db588a042798ecefa24c428a8294e.jar" />
     </item>
 
 </items>

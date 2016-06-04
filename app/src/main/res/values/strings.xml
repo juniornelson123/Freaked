@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Freaked</string>
+    <string name="usuario">Usuario</string>
+    <string name="voc_n_o_quer_tem_quem_queira">Você não quer? Tem quem queira!</string>
+    <string name="freaked">Freaked</string>
+    <string name="senha">Senha</string>
 </resources>
